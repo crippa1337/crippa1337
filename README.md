@@ -1,7 +1,7 @@
-## crippa's profile
+## crippa1337
 
->
-> #### I am currently learning:
-> - Python 🐍
-> - Webdev 🌍
->
+
+#### I am currently learning:
+- Python 🐍
+- Webdev 🌍
+
