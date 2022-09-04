@@ -1,2 +1,7 @@
-## Cris 
-### Student at NTI Nacka
+## crippa's profile
+
+>
+>> ###I am currently learning:
+> Python 🐍
+> Webdev 🌍
+>
