@@ -2,7 +2,7 @@
 
 
 #### I am currently learning:
-- Python 🐍
-- Webdev 🌍
-- Rust 🦀
+- Python  🐍
+- Webdev  🌍
+- Rust    🦀
 
