@@ -1,9 +1,10 @@
 ## crippa1337
 
 
-#### I am currently learning:
-<p>- Python  🐍
-- Webdev  🌍
-- Rust    🦀
-</p>
+>#### I am currently learning:
+>
+>- Python  🐍
+>- Webdev  🌍
+>- Rust    🦀
+
 
