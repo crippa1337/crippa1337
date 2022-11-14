@@ -1,11 +1,11 @@
 ## I am currently learning
 
 
-> Rust    🦀
+> 🦀 Rust
 > 
-> Python  🐍
+> 🐍 Python
 > 
-> Webdev  🌍
+> 🌍 Webdev
 
 ## I am currently working on
 
