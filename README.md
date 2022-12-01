@@ -10,8 +10,6 @@
 ## I am currently working on
 
 >
-> [Rock Paper Scissors](https://github.com/crippa1337/rock-paper-scissors) using Rust.
->
 > [Battleship](https://github.com/crippa1337/battleship) using Rust.
 >
 > [Flappy Troll](https://github.com/crippa1337/flappy-troll) using PyGame
