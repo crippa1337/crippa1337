@@ -10,7 +10,9 @@
 ## I am currently working on
 
 > [Battleship](https://github.com/crippa1337/battleship) using Rust.
+> 
 > [Flappy Troll](https://github.com/crippa1337/flappy-troll) using PyGame
+> 
 > [Eurojackpot Mock Casino](https://github.com/crippa1337/eurojackpot)
 
 ## Stats
